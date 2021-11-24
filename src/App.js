@@ -32,4 +32,4 @@ const Image = () => (
   />
 );
 const Title = () => <h3> This is book</h3>;
-const Author = () => <h5> Rahat Hosen</h5>;
+const Author = () => <h5> Jhon Silgma</h5>;
